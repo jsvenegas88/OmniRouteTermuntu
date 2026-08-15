@@ -90,3 +90,11 @@ Trusting the workspace and connecting through the gateway:
 ## Development note
 
 Built with help from Claude (Anthropic) for debugging and scripting.
+
+## Dashboard
+
+Once `omnicode` (or `omniroute serve`) is running, you can view OmniRoute's dashboard in your phone's browser at:
+
+http://localhost:20128
+
+From there you can see live provider status, usage/cost analytics, add API keys or subscriptions, and manage routing combos — all without touching the command line.
