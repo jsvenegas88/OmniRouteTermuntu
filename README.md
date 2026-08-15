@@ -98,3 +98,4 @@ Once `omnicode` (or `omniroute serve`) is running, you can view OmniRoute's dash
 http://localhost:20128
 
 From there you can see live provider status, usage/cost analytics, add API keys or subscriptions, and manage routing combos — all without touching the command line.
+This URL is also printed automatically at the start of every `omnicode` run, before Claude Code launches.
