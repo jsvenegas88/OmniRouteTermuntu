@@ -74,16 +74,15 @@ See live provider status, usage/cost analytics, add API keys or subscriptions, a
 2. Trusting the workspace:
 
 
-
-![Workspace trust screen](assets/ScreenshotTermux2.jpg)
+![Claude Code running](assets/ScreenshotTermux3.jpg)
 
 
 
 3. Claude Code running through the free gateway:
 
 
+![Workspace trust screen](assets/ScreenshotTermux2.jpg)
 
-![Claude Code running](assets/ScreenshotTermux3.jpg)
 
 
 
