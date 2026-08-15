@@ -1,4 +1,4 @@
-# omnicode
+# OmniRouteTermuntu
 
 A one-command launcher that starts OmniRoute (https://github.com/diegosouzapw/OmniRoute) and Claude Code from a fresh Termux session on Android - no manual server-start, no separate terminal tabs, no waiting around wondering if it's stuck.
 
