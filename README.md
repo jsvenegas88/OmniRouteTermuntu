@@ -86,3 +86,7 @@ Trusting the workspace and connecting through the gateway:
 ![Workspace trust screen](assets/ScreenshotTermux2.jpg)
 
 
+
+## Development note
+
+Built with help from Claude (Anthropic) for debugging and scripting.
