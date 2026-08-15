@@ -23,7 +23,13 @@ for i in $(seq 1 $total); do
       -d '{"model":"auto","messages":[{"role":"user","content":"ping"}]}' \
       | grep -q "choices\|content"; then
     printf "\r[%s] 100%% Ready!      \n" "$(printf '%*s' 40 '' | tr ' ' '#')"
-    echo "Launching Claude Code..."
+    echo ""
+    echo "=========================================="
+    echo "  Dashboard: http://localhost:20128"
+    echo "=========================================="
+    echo ""
+    echo "Launching Claude Code in 3 seconds..."
+    sleep 3
     omniroute launch
     exit 0
   fi
