@@ -67,7 +67,7 @@ See live provider status, usage/cost analytics, add API keys or subscriptions, a
 
 
 
-![Progress bar](assets/ScreenshotTermux3.jpg)
+![Progress bar](assets/ScreenshotTermux.jpg)
 
 
 
@@ -83,7 +83,7 @@ See live provider status, usage/cost analytics, add API keys or subscriptions, a
 
 
 
-![Claude Code running](assets/ScreenshotTermux.jpg)
+![Claude Code running](assets/ScreenshotTermux3.jpg)
 
 
 
