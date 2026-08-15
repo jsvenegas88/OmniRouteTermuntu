@@ -43,8 +43,7 @@ Running Claude Code directly in plain Termux fails - the native binary isn't pub
 3. Save omniroute-start.sh to ~/omniroute-start.sh inside Ubuntu, then:
    chmod +x ~/omniroute-start.sh
 
-4. Back in plain Termux, add this alias to ~/.bashrc:
-   alias omnicode='proot-distro login ubuntu -- bash -c "~/omniroute-start.sh"'
+4. Back in plain Termux, add this alias to /omniroute-start.sh"'
    Then:
    source ~/.bashrc
 
