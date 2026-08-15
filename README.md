@@ -62,3 +62,29 @@ Built on top of OmniRoute (https://github.com/diegosouzapw/OmniRoute) (MIT licen
 ## License
 
 MIT
+
+## Screenshots
+
+Progress bar while OmniRoute starts up:
+
+
+
+![Progress bar](assets/ScreenshotTermux3.jpg)
+
+
+
+Claude Code launched and responding through the free gateway:
+
+
+
+![Claude Code running](assets/ScreenshotTermux.jpg)
+
+
+
+Trusting the workspace and connecting through the gateway:
+
+
+
+![Workspace trust screen](assets/ScreenshotTermux2.jpg)
+
+
